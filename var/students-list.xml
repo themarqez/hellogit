@@ -57,5 +57,11 @@
         <github>kbaranski</github>
         <group>KrZZIs3011Si</group>
     </student>
-
+    <student>
+	<firstname>Marek</firstname>
+	<lastname>Radecki</lastname>
+	<email>themarqez@gmail.com</email>
+	<github>themarqez</github>
+	<group>KrZZIs3011io</group>
+    </student>
 </students>
